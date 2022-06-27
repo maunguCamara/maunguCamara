@@ -1,4 +1,4 @@
-- 👋 Hi, I am @tanga_wizi
+- 👋 Hi, I am @Camara
 - 👀 I’m interested in Python and Data Science
 - 🌱 I’m currently learning Computer Science at Dedan Kimathi University of Technology
 - 💞️ I’m looking to collaborate on ...
