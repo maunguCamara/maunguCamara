@@ -1,8 +1,7 @@
 - 👋 Hi, I am @Camara
-- 👀 I’m interested in Python and Data Science
 - 🌱 I’m currently learning Computer Science at Dedan Kimathi University of Technology
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me 
 
 <!---
 maunguCamara/maunguCamara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
