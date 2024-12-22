@@ -1,7 +1,7 @@
 <div align="center">
     <h2>🚀 About Me</h2>
 <!--     <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p> -->
-    <p>I'm a Software Engineer, Computer Science, Dedan Kimathi University of Technology.  I am looking to collaboarate on any project across a number of languages, operating systems, and technology. <! --My technical range is broad, covering everything from cloud platforms and containerization to CRM systems and 3D modeling. --> </p>
+    <p>Computer Science, Dedan Kimathi University of Technology.  I love Science and Technology. Looking to collaborate on any  interesting project</p>
 </div>
 <div align="center">
 <h2 align="center" class="section-heading">🌐 Connect with Me</h2>
