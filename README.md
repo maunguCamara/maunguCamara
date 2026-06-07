@@ -1,7 +1,7 @@
 <div align="center">
     <h2>🚀 About Me</h2>
 <!--     <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p> -->
-    <p>Computer Science, Dedan Kimathi University of Technology.  I love Science and Technology. Looking to collaborate on any  interesting project</p>
+    <p>Computer Sciencet</p>
 </div>
 <div align="center">
 <h2 align="center" class="section-heading">🌐 Connect with Me</h2>
