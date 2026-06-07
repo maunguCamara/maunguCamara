@@ -5,7 +5,7 @@
 </div>
 <div align="center">
 <h2 align="center" class="section-heading">🌐 Connect with Me</h2>
-<p> To connect with me, you can find my reach me through my email, or whatsapp. Feel free to reach out for collaborations, opportunities, or just to exchange ideas about the latest in software development and technology. </p>
+<p> To connect with me, you can reach me through my email </p>
 <div align="center">
   <a href="https://www.linkedin.com/in/camara-maungu">
     <img src="https://img.shields.io/badge/Camara-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
